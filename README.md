@@ -7,4 +7,4 @@ This is a program that is supposed to help you learn morse code.
 "Show Answer"-button shows the answer.  
 "Audio"/"lLight"-button changes mode. Audio becomes light and  light becomes auido. This affects the way that the morse is played. Audio plays the morse with sound and light makes the button blink.  
 
-It uses winsoud and thus it can only be used on windows computers. The wikipedia module is also used so it has to be installed for the program to run.  
+practiceMorse.pyw uses winsoud and thus it can only be used on windows computers. The wikipedia module is also used so it has to be installed for the program to run.  
